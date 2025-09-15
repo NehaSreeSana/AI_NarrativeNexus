@@ -1,0 +1,314 @@
+[
+    {
+        "id": "f5b9cab5-81bf-4906-a6a6-b3810b5e02d5",
+        "source": "reddit",
+        "author": "punekar_rahul",
+        "timestamp": "2025-09-11T15:30:40+00:00",
+        "text": "Saree and her\n",
+        "metadata": {
+            "language": "en",
+            "likes": 1254,
+            "rating": null,
+            "url": "https://www.reddit.com/r/Saree/comments/1nebvv9/saree_and_her/#lightbox"
+        }
+    },
+    {
+        "id": "f844d61a-a59d-4749-940f-a566f8bd4b1c",
+        "source": "reddit",
+        "author": "punekar_rahul",
+        "timestamp": "2025-09-11T15:30:40+00:00",
+        "text": "Saree and her\n",
+        "metadata": {
+            "language": "en",
+            "likes": 1253,
+            "rating": null,
+            "url": "https://www.reddit.com/r/Saree/comments/1nebvv9/saree_and_her/#lightbox"
+        }
+    },
+    {
+        "id": "3e8ea130-e8b4-4e80-9bd6-00c911043d28",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "microsoft/VibeVoice-1.5B\ntext-to-speech",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/microsoft/VibeVoice-1.5B"
+        }
+    },
+    {
+        "id": "cd8e57d4-58e7-4d35-b296-a653ea305d4c",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "openai/gpt-oss-20b\ntext-generation",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/openai/gpt-oss-20b"
+        }
+    },
+    {
+        "id": "4f774530-8607-43d5-b32e-8c1a71656193",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf\ntext-generation",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf"
+        }
+    },
+    {
+        "id": "2ac9d400-b5e6-4589-922c-167d9420f0cf",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "DavidAU/OpenAi-GPT-oss-20b-LIGHT-uncensored-NEO-Imatrix-gguf\ntext-generation",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-LIGHT-uncensored-NEO-Imatrix-gguf"
+        }
+    },
+    {
+        "id": "f7974ab0-08ce-4a6f-a72d-a65245200f66",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "DevQuasar/openai.gpt-oss-20b-GGUF\ntext-generation",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/DevQuasar/openai.gpt-oss-20b-GGUF"
+        }
+    },
+    {
+        "id": "807444bc-5d46-417b-b466-1bcfa25fd181",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "bartowski/openai_gpt-oss-20b-GGUF-MXFP4-Experimental\ntext-generation",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/bartowski/openai_gpt-oss-20b-GGUF-MXFP4-Experimental"
+        }
+    },
+    {
+        "id": "9d15915f-0476-4c9c-93e4-a298f15c9da4",
+        "source": "reddit",
+        "author": "SamarthM_247",
+        "timestamp": "2025-09-13T17:43:21+00:00",
+        "text": "Is it good ? Just let me know if you like it 🙂\n",
+        "metadata": {
+            "language": "en",
+            "likes": 165,
+            "rating": null,
+            "url": "https://www.reddit.com/r/AnimeDrawing/comments/1ng3s3h/is_it_good_just_let_me_know_if_you_like_it/#lightbox"
+        }
+    },
+    {
+        "id": "975c773e-b9ca-4567-b653-1cd57ae45b3c",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "Kijai/WanVideo_comfy\n",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/Kijai/WanVideo_comfy"
+        }
+    },
+    {
+        "id": "eb6a9ee8-9381-4d81-8ea6-922ac0e7b221",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "Kijai/WanVideo_comfy_fp8_scaled\n",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled"
+        }
+    },
+    {
+        "id": "e3819698-a158-49dd-97c9-635a6d270b2c",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "Kijai/WanVideo_comfy_GGUF\n",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/Kijai/WanVideo_comfy_GGUF"
+        }
+    },
+    {
+        "id": "3aa9797c-513d-4b80-b25e-a5aa28f76d3c",
+        "source": "reddit",
+        "author": "Enough-Celery4707",
+        "timestamp": "2025-09-15T05:37:13+00:00",
+        "text": "So dumb... changing religion is not love dear ladies\nLol",
+        "metadata": {
+            "language": "en",
+            "likes": 39,
+            "rating": null,
+            "url": "https://www.reddit.com/r/IndianMeme/comments/1nhdl1t/so_dumb_changing_religion_is_not_love_dear_ladies/"
+        }
+    },
+    {
+        "id": "1e92ff09-9adf-404e-be97-8ea011b51402",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "openbmb/MiniCPM4.1-8B\ntext-generation",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/openbmb/MiniCPM4.1-8B"
+        }
+    },
+    {
+        "id": "51a9973c-6c37-4f34-a5c6-c12330153a16",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "openbmb/MiniCPM4.1-8B-GGUF\ntext-generation",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/openbmb/MiniCPM4.1-8B-GGUF"
+        }
+    },
+    {
+        "id": "24c1f0b6-d60a-42c9-9f57-238dddc661b5",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "openbmb/MiniCPM4-0.5B\ntext-generation",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/openbmb/MiniCPM4-0.5B"
+        }
+    },
+    {
+        "id": "e5d5f3a5-e4ba-40b7-b18e-ba4d61cf3ff0",
+        "source": "reddit",
+        "author": "thunderbolt0777",
+        "timestamp": "2025-09-15T08:17:07+00:00",
+        "text": "Passenger busy on phone almost meets an accident\n",
+        "metadata": {
+            "language": "en",
+            "likes": 1166,
+            "rating": null,
+            "url": "https://www.reddit.com/r/indianrailways/comments/1nhg3lq/passenger_busy_on_phone_almost_meets_an_accident/"
+        }
+    },
+    {
+        "id": "329d278f-d9e7-41f7-a461-095c4e8780a5",
+        "source": "reddit",
+        "author": "punekar_rahul",
+        "timestamp": "2025-09-11T15:30:40+00:00",
+        "text": "Saree and her\n",
+        "metadata": {
+            "language": "en",
+            "likes": 1257,
+            "rating": null,
+            "url": "https://www.reddit.com/r/Saree/comments/1nebvv9/saree_and_her/#lightbox"
+        }
+    },
+    {
+        "id": "a6159798-23bb-4dbd-bc68-c3b1f5afa5c5",
+        "source": "reddit",
+        "author": "thunderbolt0777",
+        "timestamp": "2025-09-15T08:17:07+00:00",
+        "text": "Passenger busy on phone almost meets an accident\n",
+        "metadata": {
+            "language": "en",
+            "likes": 1745,
+            "rating": null,
+            "url": "https://www.reddit.com/r/indianrailways/comments/1nhg3lq/passenger_busy_on_phone_almost_meets_an_accident/"
+        }
+    },
+    {
+        "id": "42617a1e-6bb6-40b0-80e7-a1ee4d44bafd",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "microsoft/VibeVoice-1.5B\ntext-to-speech",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/microsoft/VibeVoice-1.5B"
+        }
+    },
+    {
+        "id": "bf4c5779-621b-4d5a-ad81-6b21668ee0bb",
+        "source": "reddit",
+        "author": "thunderbolt0777",
+        "timestamp": "2025-09-15T08:17:07+00:00",
+        "text": "Passenger busy on phone almost meets an accident\n",
+        "metadata": {
+            "language": "en",
+            "likes": 2845,
+            "rating": null,
+            "url": "https://www.reddit.com/r/indianrailways/comments/1nhg3lq/passenger_busy_on_phone_almost_meets_an_accident/"
+        }
+    },
+    {
+        "id": "b6ebe2e3-1aa9-4ca5-9f27-61f0135595c9",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "google/embeddinggemma-300m\nsentence-similarity",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/google/embeddinggemma-300m"
+        }
+    },
+    {
+        "id": "5f007a52-7c09-4a7d-a568-3d8d96c9ccb0",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "google/embeddinggemma-300m-qat-q4_0-unquantized\nsentence-similarity",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/google/embeddinggemma-300m-qat-q4_0-unquantized"
+        }
+    },
+    {
+        "id": "1c193f90-e06f-4ac8-be43-3d7b47bc3e47",
+        "source": "huggingface",
+        "author": "unknown",
+        "timestamp": null,
+        "text": "google/embeddinggemma-300m-qat-q8_0-unquantized\nsentence-similarity",
+        "metadata": {
+            "language": "en",
+            "likes": null,
+            "rating": null,
+            "url": "https://huggingface.co/google/embeddinggemma-300m-qat-q8_0-unquantized"
+        }
+    }
+]
